@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+trading_ml/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# IB Gateway logs
+*.log
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
