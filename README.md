@@ -21,4 +21,6 @@
 ## Run Tests
 ```bash
 pip install ib_async pandas numpy
-python test_all.py
+python test_all.py ```
+## Author
+Shubham Singh
