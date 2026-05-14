@@ -1,6 +1,6 @@
 # Low latency Trading System
 
-⚡ **Sub-8ms Trading Engine** for Interactive Brokers
+⚡ **Sub-8ms Trading Engine** for Interactive Brokers.
  "Modular HFT system with sub-8ms latency, WebSocket data ingestion and retail safety guards"
 
 ## Performance Metrics
