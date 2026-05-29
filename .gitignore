@@ -26,7 +26,6 @@ trading_ml/
 
 # IB Gateway logs
 *.log
-*.txt
 
 # OS files
 .DS_Store
